@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carbon Crunch</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="../Task/logo-removebg.png" alt="">
+                <p>CarbonCrunch</p>
+            </div>
+
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <div class="buttons">
+                <button class="login">Login</button>
+                <button class="book-demo">Book Demo</button>
+            </div>
+        </nav>
+    </header>
+    
+    <section class="hero">
+        <div class="short">
+            <p class="earth">&#x1F44B Let's save Our Enivronment</p>
+        </div>
+        <h1>Streamline Your Sustainability <br> Reporting With <span>CARBON CRUNCH</span></h1>
+        <p class="details"><span>95%</span> Accurate Carbon Calculations Trusted by Industry Leaders</p>
+        <div class="cta-buttons">
+            <button class="free-calculator">Free Calculator</button>
+            <button class="book-demo">Book Demo</button>
+        </div>
+    </section>
+
+    <section class="statistics">
+
+        <div class="grey-box"></div>
+
+        <div class="green">
+            <p class="speed">3X</p>
+            <p class="perform">ESG High Performers Deliver A Higher Total Shareholder Return</p>
+        </div>
+
+        <div class="sustain">
+            <p class="percentage">98%</p>
+            <p class="agree">Of CEOs Agree Sustainability Is Their Responsibility</p>
+        </div>
+
+        <div class="cutting">
+            <p class="cut">18%</p>
+            <p class="beach">Of Companies Are Cutting Emissions Fast Enough To Reach Net Zero By 2050</p>
+        </div>
+
+        <div class="last">
+            <p class="ratio">37%</p>
+            <p class="largest">Of The World's Largest Companies Have A Public Net Zero Target. Nearly All Are Off Track</p>
+        </div>
+    </section>
+    
+    <script>
+        document.querySelectorAll('button').forEach(button => {
+            button.addEventListener('mouseover', () => {
+                button.style.opacity = '0.8';
+            });
+            button.addEventListener('mouseout', () => {
+                button.style.opacity = '1';
+            });
+        });
+    </script>
+</body>
+</html>
