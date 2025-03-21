@@ -30,4 +30,9 @@ Welcome to **Carbon Crunch** – a project designed to promote sustainability by
 ## 🛠️ Technologies Used
 - **HTML5** - For structuring the web page  
 - **CSS3** - For styling and responsive design  
-- **JavaScript** - For interactive elements  
+- **JavaScript** - For interactive elements
+
+  ## 🌍 Live Preview  
+Check out the live version of Carbon Crunch here:  
+[Live Demo](https://github.com/s14ati/Carbon-Crunch/edit/main/README.md)  
+
