@@ -34,5 +34,5 @@ Welcome to **Carbon Crunch** – a project designed to promote sustainability by
 
   ## 🌍 Live Preview  
 Check out the live version of Carbon Crunch here:  
-[Live Demo](https://github.com/s14ati/Carbon-Crunch/edit/main/README.md)  
+[Live Demo](https://s14ati.github.io/Carbon-Crunch/)  
 
