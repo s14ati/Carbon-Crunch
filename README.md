@@ -1,5 +1,6 @@
 # Carbon-Crunch
 # 🌍 Carbon Crunch - Sustainable Future Website
+Author- Swati Gupta
 
 Welcome to **Carbon Crunch** – a project designed to promote sustainability by providing insights into carbon emissions and environmental awareness.
 
